@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(58, 51, 51);
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: white;
+}
+button{
+    color: white;
+    background-color: rgb(23, 160, 103);
+    height: 50px;
+    width:220px;
+    border-radius: 10px;
+}
