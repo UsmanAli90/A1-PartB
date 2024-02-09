@@ -1,0 +1,29 @@
+form{
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.form1{
+    text-align: center;
+}
+.form-content form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.form-content input{
+    width: 220px;
+    margin: 10px;
+}
+
+.form-content input[type="submit"]{
+    color: white;
+    background-color: rgb(50, 155, 50);
+    height: 35px;
+}
+.form-content input[type="reset"]{
+    color: white;
+    background-color: rgb(50, 155, 50);
+    height: 35px;
+}
