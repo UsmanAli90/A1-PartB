@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(113, 113, 172);
+    height: 140px;
+}
+.nav-txt h2,h4{
+    text-align: center;
+    padding-top: 14px;
+}
+
+.nav-img img{
+    height: 100px;
+}
+
+.nav-txt h2{
+    font-size: 30px;
+}
+.nav-links{
+    background-color: rgb(113, 113, 172);
+    text-align: center;
+}
+
+.nav-links a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.nav-links img{
+    width: 20px;
+}
+
+.nav-links a:hover{
+    font-style:italic;
+}
+
+.all{
+    height: 130px;
+    margin: 20px;
+    margin-top: 70px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+/* .all:hover{
+    margin-top: 40px;   
+} */
+.all span{
+    font-weight: bold;
+}
+.projects{
+    margin: 20px;
+    margin-top: 90px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+.proj1{
+    padding-top: 20px;
+    
+}
+.proj2{
+    padding-top: 40px;
+    
+}
+.projects button{
+    color: white;
+    margin-top: 10px;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(72, 72, 197);
+}
+.projects button:hover{
+    cursor: pointer;
+    background-color: rgb(39, 39, 153);
+}
+.footer{
+    margin-top: 50px;
+    background-color: rgb(113, 113, 172);
+    height: 80px;
+}
+.footer p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 25px;
+}
+
